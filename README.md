@@ -20,6 +20,8 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+## 正文
+
 如图所示，当`textarea`里的内容超过一行后，会出现滚动条并隐藏前一行的内容，特别是在移动端使用到textarea多行文本输入的话，这样显示其实是很不友好的。所以要做一个可根据内容改变高度的textarea的组件。
 
 ![](https://upload-images.jianshu.io/upload_images/7016617-d411168fc0306f32.gif?imageMogr2/auto-orient/strip)
